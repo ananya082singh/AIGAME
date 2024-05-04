@@ -2,10 +2,11 @@ Cheesy Chase: Cat & Mouse
 ===================================================
 
 <b>Cheesy Chase: Cat & Mouse</b>  is a cat-mouse-cheese game based on [Q-Learning](https://en.wikipedia.org/wiki/Q-learning). 
+
 It uses breadth-first-search([BFS](https://en.wikipedia.org/wiki/Breadth-first_search)) when cat chasing the AI mouse, so the cat looks much more brutal :P 
 
 <div align="center">
-<img src="resources/512x512bb.jpg" width="70%">
+<img src="resources/512x512bb.jpg" width="50%">
     
 ## About the game
 The cat consistently opts for the shortest path in its pursuit of the mouse, while the initially unsuspecting mouse remains oblivious to the looming danger of becoming the cat's prey.
