@@ -11,7 +11,7 @@ It uses breadth-first-search([BFS](https://en.wikipedia.org/wiki/Breadth-first_s
 ## About the game
 The cat consistently opts for the shortest path in its pursuit of the mouse, while the initially unsuspecting mouse remains oblivious to the looming danger of becoming the cat's prey.
 * <b>Mouse wins</b> if it eats the cheese and earns reward value of 50, then a new cheese will be produced in a random grid.
-* <b>cat winss</b> if it eats the mouse, the latter will gain rewards value of -100 when dead. Then it will relive in a random grid.
+* <b>Cat wins</b> if it eats the mouse, the latter will gain rewards value of -100 when dead. Then it will relive in a random grid.
 
 ## Algorithm  
 The basic algorithm of Q-Learning is:  
