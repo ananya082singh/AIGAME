@@ -22,7 +22,7 @@ It uses the best next choice of utility in later state to update the former stat
 ## Example
 Below we present two GIF to plot the reinforcement learning result:  
 * `Blue` is for mouse.
-* Black` is for cat.
+* 'Black` is for cat.
 * `Orange` is for cheese.
 
 After **300 generations**: 
