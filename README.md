@@ -5,7 +5,7 @@ Cheesy Chase: Cat & Mouse
 It uses breadth-first-search([BFS](https://en.wikipedia.org/wiki/Breadth-first_search)) when cat chasing the AI mouse, so the cat looks much more brutal :P 
 
 <div align="center">
-<img src="resources/512x512bb.jpg" width="100%">
+<img src="resources/512x512bb.jpg" width="70%">
     
 ## About the game
 The cat consistently opts for the shortest path in its pursuit of the mouse, while the initially unsuspecting mouse remains oblivious to the looming danger of becoming the cat's prey.
